@@ -1,0 +1,26 @@
+name: Auto Update TV Link
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # കൃത്യമായി ഓരോ 20 മിനിറ്റിലും തനിയെ റൺ ആകും
+  workflow_dispatch: # കൈകൊണ്ട് വേണമെങ്കിലും റൺ ചെയ്യാം
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code Fetch
+        uses: actions/checkout@v2
+      - name: Python Setup
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Run Scraper
+        run: python scraper.py
+      - name: Save Updated Link
+        run: |
+          git config --global user.name "TV Bot"
+          git config --global user.email "bot@tv.com"
+          git add playlist.m3u
+          git commit -m "Updated All Malayalam Channels Automatically" || exit 0
+          git push
