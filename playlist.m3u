@@ -1,12 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://example.com/asianet.png", Asianet HD (Server 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/asianetmovies.png", Asianet Movies (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://m3uplay.com/
-https://m3uplay.com/jio/live.mpd?wid=459JP&vtoken=st=1779771999~exp=1779772659~data=71e79613eeb3700ae0df41214f6835f7408396ff~id=459JP~ip=111.92.86.9~hmac=2ae69354f17955b0d5aa6dbff7ffd966d63adad992a93216c6ac898f1a16b375
