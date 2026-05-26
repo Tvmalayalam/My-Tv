@@ -1,98 +1,82 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vHtwV66.png" group-title="Malayalam", Asianet HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/asianet.png" group-title="Malayalam", Asianet HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/starasianet1_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/starasianet1_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GZp8S6O.png" group-title="Malayalam", Asianet Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/asianetmovies.png" group-title="Malayalam", Asianet Movies HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/asianetmovies_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/asianetmovies_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3Z0g8G.png" group-title="Malayalam", Asianet Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/asianetplus.png" group-title="Malayalam", Asianet Plus
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/asianetplus_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/asianetplus_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xK9fXmO.png" group-title="Malayalam", Surya TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/suryatv.png" group-title="Malayalam", Surya TV HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/suryatv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/suryatv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v8bZp6N.png" group-title="Malayalam", Surya Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/suryamovies.png" group-title="Malayalam", Surya Movies
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/suryamovies_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/suryamovies_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9vB7zX.png" group-title="Malayalam", Surya Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/suryacomedy.png" group-title="Malayalam", Surya Comedy
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/suryacomedy_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/suryacomedy_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z8pM7vX.png" group-title="Malayalam", Surya Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/suryamusic.png" group-title="Malayalam", Surya Music
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/suryamusic_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/suryamusic_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7xB5zM.png" group-title="Malayalam", Kochu TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/kochutv.png" group-title="Malayalam", Kochu TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/kochutv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/kochutv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h9vX4zK.png" group-title="Malayalam", Mazhavil Manorama HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/mazhavilmanorama.png" group-title="Malayalam", Mazhavil Manorama HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/mmtv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/mmtv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m9bV4xZ.png" group-title="Malayalam", Flowers TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/flowerstv.png" group-title="Malayalam", Flowers TV HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/flowerstv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/flowerstv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8zX8v7G.png" group-title="Malayalam", Asianet News HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/asianetnews.png" group-title="Malayalam", Asianet News HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/asianetnews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/asianetnews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v7zM4bX.png" group-title="Malayalam", 24 News HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/24news.png" group-title="Malayalam", 24 News HD
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/twentytofournews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/twentytofournews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w8vX4zM.png" group-title="Malayalam", Mathrubhumi News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/mathrubhuminews.png" group-title="Malayalam", Mathrubhumi News
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/mbnews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/mbnews_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9bV4xZ.png" group-title="Malayalam", News18 Kerala
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/news18kerala.png" group-title="Malayalam", News18 Kerala
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/news18kerala_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/news18kerala_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x8vX7zK.png" group-title="Malayalam", MediaOne
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/mediaone.png" group-title="Malayalam", MediaOne
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/mediaone_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/mediaone_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9zM4bX.png" group-title="Malayalam", Janam TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/manishb20/Tv-logos/main/janamtv.png" group-title="Malayalam", Janam TV
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/janamtv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://anet.keralive.workers.dev/
+#EXTVLCOPT:http-referrer=https://tulnit.com/
+https://anettv.tulnit.workers.dev/janamtv_live_https/index.m3u8|User-Agent=AppleCoreMedia/1.0.0.16G77 (iPhone; U; CPU iPhone OS 12_4 like Mac OS X; en_us)&Referer=https://tulnit.com/
 
