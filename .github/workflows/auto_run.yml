@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: '3.x'
       - name: Install Dependencies
-        run: pip install requests # പുതിയ ലൈബ്രറി ഇൻസ്റ്റാൾ ചെയ്യുന്നു
+        run: pip install requests # ഇത് നിർബന്ധമാണ്
       - name: Run Scraper
         run: python scraper.py
       - name: Save Updated Link
@@ -24,6 +24,5 @@ jobs:
           git config --global user.name "TV Bot"
           git config --global user.email "bot@tv.com"
           git add playlist.m3u
-          git commit -m "Automatically Detected and Updated All Malayalam Channels" || exit 0
+          git commit -m "Automatically Updated All Malayalam Channels" || exit 0
           git push
-
