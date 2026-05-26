@@ -1,13 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://example.com/asianet.png", Asianet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/starasianet1_live_https/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://example.com/asianetmovies.png", Asianet Movies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://anet.keralive.workers.dev/
-#EXTVLCOPT:http-origin=https://anet.keralive.workers.dev
-https://anet.keralive.workers.dev/v1/master/be381fcfb351ee2b450537f5bbf1e89324083a30/asianetmovies_live_https/index.m3u8
